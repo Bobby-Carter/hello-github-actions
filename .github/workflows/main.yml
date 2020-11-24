@@ -10,3 +10,4 @@ jobs:
       - uses: ./action-a
         with:
           MY_NAME: "Bobby"
+          MY_FAV_COLOR: "Blue"
